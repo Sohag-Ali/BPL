@@ -1,0 +1,122 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/6RvVd9jK/2598017-untitled-design-2023-07-06t143956-960.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 8.7,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "price": "475,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/T6SPzgQ/images.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 9.4,
+    "bating_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": "520,000 USD"
+  },
+  {
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg",
+    "player_name": "Virat Kohli",
+    "player_country": "India",
+    "playing_role": "Batsman",
+    "rating": 9.6,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "price": "1,200,000 USD"
+  },
+  {
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/BEN_STOKES_%2811704837023%29_%28cropped%29.jpg",
+    "player_name": "Ben Stokes",
+    "player_country": "England",
+    "playing_role": "All-rounder",
+    "rating": 9.2,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "980,000 USD"
+  },
+  {
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kane_Williamson.jpg",
+    "player_name": "Kane Williamson",
+    "player_country": "New Zealand",
+    "playing_role": "Batsman",
+    "rating": 9.0,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "price": "875,000 USD"
+  },
+  {
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Steve_Smith_%28cricketer%29%2C_2014_%28cropped%29.jpg",
+    "player_name": "Steve Smith",
+    "player_country": "Australia",
+    "playing_role": "Batsman",
+    "rating": 9.1,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "price": "910,000 USD"
+  },
+  {
+    "player_image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg",
+    "player_name": "Jasprit Bumrah",
+    "player_country": "India",
+    "playing_role": "Bowler",
+    "rating": 9.5,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": "1,050,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/21LxwLrK/download.jpg",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "playing_role": "All-rounder",
+    "rating": 9.3,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm leg break (googly)",
+    "price": "890,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/21LxwLrK/download.jpg",
+    "player_name": "Jos Buttler",
+    "player_country": "England",
+    "playing_role": "Wicket-keeper",
+    "rating": 9.0,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "price": "830,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/35b9Rczv/indiatv-2023-07-07t122641-1688713010.jpg",
+    "player_name": "Quinton de Kock",
+    "player_country": "South Africa",
+    "playing_role": "Wicket-keeper",
+    "rating": 8.9,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "price": "780,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/1ftbdwG5/mashrafe-mortazajpg.jpg",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "playing_role": "All-rounder",
+    "rating": 9.1,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": "920,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/21LxwLrK/download.jpg",
+    "player_name": "Babar Azam",
+    "player_country": "Pakistan",
+    "playing_role": "Batsman",
+    "rating": 9.5,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "price": "1,100,000 USD"
+  }
+]
