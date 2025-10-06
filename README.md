@@ -1,4 +1,4 @@
-##### Live Project Link : [BPL-sohag-1426.surge.sh](http://bpl-sohag-1426.surge.sh/)
+##### Live Project Link : https://bpl-sohag-1426.netlify.app/
 
 # React + Vite
 
